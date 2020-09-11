@@ -1,0 +1,24 @@
+#ROADMAP
+
+Version 2.0
+- Create exception for non expected user input
+- Test performance
+- Develop the reports below:
+	• Pruebas unitarias sobre los distintos módulos/objetos/funciones
+	• Comparación de utilización del sistema entre dos años cualesquiera. La utilización del sistema se puede medir como:
+		o Cantidad de viajes totales
+		o Tiempo total de utilización del sistema
+		o Cantidad de viajes por estaciones/bicicletas disponibles
+	• Capacidad instalada total (suma de la capacidad total de cada estación)
+	• Cambio en la capacidad instalada entre dos años puntuales
+
+Version 3.0
+- Develop the reports below:
+	• Ampliación de la cobertura de la red entre dos años puntuales. La misma se puede medir como el área total que generan las estaciones
+	• Comparación de densidad de la red para un par de años puntuales. La densidad de la red se mide como el área que abarcan todas las estaciones, dividida la cantidad de estaciones
+	• Velocidad promedio de los ciclistas para un año determinado
+	• Cantidad de bicicletas totales para un momento dado. Considerando la misma como la cantidad de bicicletas que hay en todas las estaciones activas para ese momento, más todos los viajes que se estén realizando
+
+
+
+
