@@ -1,2 +1,0 @@
-# ygroup-project
-Description
